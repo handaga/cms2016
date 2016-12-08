@@ -1,4 +1,4 @@
-**# > Contoh membuat dokumen dalam Wiki**
+# Contoh membuat dokumen dalam Wiki
 
 ### video - 2 - install adminstation menu
 1. Modul => **admin_menu**
