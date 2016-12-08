@@ -25,3 +25,4 @@ configuration=> jquary upadte ubah ke 1.7
 
 ### video - 4 membuat boostrap syb theme
 
+![Contoh Gambar](https://github.com/handaga/cms2016/blob/master/drill-milling-milling-machine-drilling-50691.jpeg)
